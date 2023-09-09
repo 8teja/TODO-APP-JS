@@ -46,7 +46,7 @@ nav>button {
 	margin-right: 10px;
 	font-size: 20px;
 	font-weight: 800;
-	background-color: rgb(234, 239, 241);
+	background-color: rgb(95, 25, 208);
 }
 #noText{
 	opacity: 70%;
@@ -78,7 +78,7 @@ section {
 	position: fixed;
 	top: 200px;
 	left: 35%;
-	color: rgb(38, 141, 244);
+	color: rgb(222, 22, 22);
 	border: 1px solid black;
 	border-radius: 10px;
 	align-items: center;
@@ -102,9 +102,9 @@ section {
 .close2 {
 	display: inline-block;
 	padding: 5px 10px;
-	background-color: rgb(86, 77, 206);
+	background-color: rgb(224, 17, 17);
 	color: white;
-	border: 1px solid rgb(86, 77, 206);
+	border: 1px solid rgb(221, 21, 21);
 	border-radius: 20px;
 	width: 80px;
 	height: 30px;
@@ -126,7 +126,7 @@ section {
 .CardHeading {
 	height: 50px;
 	font-size: 20px;
-	color: rgb(119, 207, 239);
+	color: rgb(199, 30, 142);
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -194,7 +194,7 @@ section {
 	align-items: center;
 	height: 20px;
 	padding: 1px 13px;
-	background-color: rgb(8, 8, 8);
+	background-color: rgb(96, 17, 223);
 	color: white;
 	border-radius: 10px;
 	border: none;
@@ -204,7 +204,7 @@ section {
 .linethrgh {
 	text-decoration: line-through;
 	text-align: center;
-	color: rgb(31, 29, 29);
+	color: rgb(193, 51, 51);
 }
 @media screen and (min-width: 360px) and (max-width: 400px) {
 	header {
